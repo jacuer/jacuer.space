@@ -1,0 +1,31 @@
+
+.Miradio {width:25px;height:25px}
+
+.imag-1 {
+ width: 75px;
+ height:auto;
+ padding:0;
+}
+
+.imag-2 {
+    max-width: 75px;
+    max-height:75px;
+    padding:0;
+   }
+   
+.imag {
+    max-width: 15%;
+    max-height:auto;
+    padding:0;
+   }
+.fondo{background-image:url(/public/img/gallery3.jpg);}
+.prueba{
+    background-color: rgba(0,0,0, 0.5) !important;
+}
+
+.bg-danger{color:rgb(237, 241, 245)}
+
+
+.p-1{background-color:#FB8C00; color:white;}
+.p{background-color:#4CAF50; justify-content: center; color:white;border-radius:20px}
+
