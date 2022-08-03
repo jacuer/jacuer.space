@@ -57,7 +57,7 @@ if( empty($estudiantes) ) {
 	foreach ($estudiantes as $value) {
 		# code...
 	
-		$template_ca .= '
+		$template_ca.= '
 			<tr>
 				<td>'. $value['pass_token'] .'</td>
 				<td>'. $value['voto_alumno'] .'</td>				
